@@ -1,0 +1,9 @@
+.input {
+  margin-bottom: 10px;
+}
+.column {
+  margin-top: 20px;
+}
+.column div:first-child {
+  margin-bottom: 10px;
+}

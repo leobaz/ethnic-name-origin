@@ -1,0 +1,7 @@
+div .ui.header-content:first-child {
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.header-container {
+  background-color: #46b79f;
+}
